@@ -1,0 +1,14 @@
+7
+Princess Leia, Diplomat, Soldier
+C3PO, Diplomat
+R2D2, Mechanic, Pilot
+Chewbacca, Mechanic, Pilot, Smuggler, Soldier
+Luke Skywalker, Jedi, Pilot, Soldier
+Han Solo, Pilot, Smuggler, Soldier
+Obi-Wan Kenobi, Jedi, Soldier, Diplomat
+5
+Diplomat, Pilot, Mechanic, Soldier, Jedi, Pilot, Soldier
+Jedi, Jedi, Jedi
+Soldier, Smuggler, Jedi, Pilot
+Jedi, Jedi, Pilot, Pilot, Mechanic, Mechanic
+Diplomat, Soldier, Pilot, Diplomat

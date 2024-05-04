@@ -1,0 +1,21 @@
+2
+Kessel, Black Pits, 8
+Black Pits, Oba Diah, 16
+4
+Kessel, Black Pits, 2
+Black Pits, The Corkscrew, 4
+The Corkscrew, The Wells, 4
+The Wells, Oba Diah, 8
+12
+Kessel, Black Pits, 6
+Kessel, Maw Cluster, 12
+Black Pits, The Corkscrew, 8
+Black Pits, The Channel, 12
+Maw Cluster, The Corkscrew, 4
+Maw Cluster, The Wells, 7
+The Corkscrew, The Pit, 5
+The Corkscrew, The Wells, 19
+The Channel, The Wells, 13
+The Channel, The Pit, 15
+The Wells, Oba Diah, 8
+The Pit, Oba Diah, 11
